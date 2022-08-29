@@ -56,34 +56,34 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: 'wtakuma@emory.edu'
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=3gRzYKUAAAAJ&hl=en&oi=sra
+  link:https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F6Qe1DAsgt6w0Vczaf7wlHA7Gzhq3W3OWZeWL6qSCepO2XXyZkKgXgLeTsRt1AnXGzdslqsNAN5F7lO5EpTAXMdK5LbAQ&user=2H8Ue30AAAAJ
 #- icon: microsoft
 #  icon_pack: fab
 #  link: https://academic.microsoft.com/profile/ejh4i6ef-e3ii-4g75-e945-542ef9747280/AlexandraManta/no-publications
 #- icon: ideas-repec
 #  icon_pack: ai
 #  link:
-#- icon: researchgate
-#  icon_pack: ai
-#  link:
+- icon: researchgate
+  icon_pack: ai
+  link:
 - icon: orcid
   icon_pack: ai
-  link: https://orcid.org/0000-0003-3683-2151
+  link: https://orcid.org/0000-0003-1227-5127
 - icon: user-graduate
   icon_pack: fas
-  link: http://economics.emory.edu/home/people/grad-students/manta-alexandra.html 
+  link: http://economics.emory.edu/home/people/grad-students/wisdom-takumah.html 
 - icon: github
   icon_pack: fab
-  link: https://github.com/alexandramanta
+  link: https://github.com/wtakumah
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/alexandramanta/
+  link: https://www.linkedin.com/in/takumah-wisdom
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/4lexandraManta
+  link: https://twitter.com/wtakumah
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
