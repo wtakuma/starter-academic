@@ -94,4 +94,4 @@ She is also a 2021-2022 {{< staticref "https://www.gs.emory.edu/diversity/index.
 
 Prior to her studies at Emory, she received a BA in Economics at {{< staticref "https://en.uoa.gr/" "newtab" >}}National and Kapodistrian University of Athens{{< /staticref >}} (UOA), in Greece. During her undergraduate studies, she worked as an Assistant Researcher at the {{< staticref "https://www.ifk-cfs.de/home.html" "newtab" >}}Center of Financial Studies{{< /staticref >}} and the {{< staticref "http://www.marketing.econ.uoa.gr/laboratory-for-investment-applications.html" "newtab" >}}Laboratory for Investment Applications{{< /staticref >}} of UOA. Her working experience includes an Economic Analyst position at the Ministry of Economy and Development, in Greece.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_AManta.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/mycv.pdf" "newtab" >}}resumé{{< /staticref >}}.
