@@ -30,7 +30,7 @@ education:
   courses:
    - course: PhD in Economics
     institution: Emory University
-    year: Expected (2023)
+    year: 2023(expected)
   - course: Msc Data Science
     institution: South Dakota State University
     year: 2018
