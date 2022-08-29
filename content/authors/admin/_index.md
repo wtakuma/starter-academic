@@ -73,9 +73,9 @@ social:
   icon_pack: ai
   link: https://scholar.google.com/citations?user=3gRzYKUAAAAJ&hl=en&oi=sra
   
-#- icon: researchgate
-#  icon_pack: ai
-#  link:
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Wisdom-Takumah-2
 
 
 # Link to a PDF of your resume/CV.
@@ -86,7 +86,7 @@ social:
 #   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "amanta@emory.edu"
+email: "wtakuma@emory.edu"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
