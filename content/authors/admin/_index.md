@@ -71,7 +71,7 @@ social:
   link: https://orcid.org0000-0003-1227-5127
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=3gRzYKUAAAAJ&hl=en&oi=sra
+  link: //scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F6Qe1DAsgt6w0Vczaf7wlHA7Gzhq3W3OWZeWL6qSCepO2XXyZkKgXgLeTsRt1AnXGzdslqsNAN5F7lO5EpTAXMdK5LbAQ&user=2H8Ue30AAAAJ
   
 - icon: researchgate
   icon_pack: ai
