@@ -18,28 +18,25 @@ bio: My research interests include Empirical Macroeconomics, Time Series Econome
 
 # Interests to show in About widget
 interests:
-- Empirical Macroeconomics
-- Time Series Econometrics
-- Machine Learning in Macroeconomics
-- Predictive Modelling
+- Time Series Analysis of Financial data
+- Econometrics of Networks
+- Causal Inference in Multilayer Networks
+- Social Interactions
 
 
 
 # Education to show in About widget
 education:
   courses:
-   - course: PhD in Economics
+  - course: PhD in Economics
     institution: Emory University
-    year: 2023(expected)
-  - course: Msc Data Science
-    institution: South Dakota State University
-    year: 2018
-  - course: Msc Economics
-    institution: South Dakota State University
-    year: 2018
-  - course: BA in Economics & Mathematics
-    institution: University of Cape Coast
-    year: 2010
+    year: 2023 (Expected)
+  - course: MSc in Economics
+    institution: Emory University
+    year: 2021 
+  - course: BA (First-Class) in Economics
+    institution: National and Kapodistrian University of Athens
+    year: 2016
 
 
 # Social/Academic Networking
