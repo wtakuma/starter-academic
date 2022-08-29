@@ -17,9 +17,7 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- icon: dollar-sign
-  icon_pack: fas
-  name: Economics
+
 - icon: chart-line
   icon_pack: fas
   name: Statistics
@@ -27,7 +25,7 @@ feature:
   icon_pack: ai
   name: Overleaf
   
-- icon: matlab
+- icon: Matlab
   icon_pack: ai
   name: Matlab 
 - icon: r-project
