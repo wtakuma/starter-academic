@@ -57,6 +57,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
+- icon: user-graduate
+  icon_pack: fas
+  link: http://economics.emory.edu/home/people/grad-students/wisdom-takumah.html 
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/wtakumah
@@ -76,7 +79,7 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Wisdom-Takumah-2
-#-icon: reseachgate
+#-icon: dash
 # icon_pack:ai
 # link: https://readership.works.bepress.com/?dashboardToken=630d06a926eddb354207e018LeRQj47cmBynHOyWW92tafCMyJFOrTle9kHtPbsT
 
