@@ -20,7 +20,7 @@ bio: My research interests include Empirical Macroeconomics, Time Series Econome
 interests:
 - Empirical Macroeconomics
 - Time Series Econometrics
-- Machine Learning in Macreoconomics
+- Machine Learning Application in Macreoconomics
 - Predictive Modelling
 
 # Education to show in About widget
@@ -57,10 +57,10 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/in/takumah-wisdom-63719a129?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2F%2Bvq0rKDT9qKYb9oEt0k7w%3D%3D
 - icon: ResearchGate
-  icon_pack: fab
+  icon_pack: ai
   link: https://www.researchgate.net/profile/Wisdom-Takumah-2
 - icon: GoogleScholar
-  icon_pack: fab
+  icon_pack: ai
   link:https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F6Qe1DAsgt6w0Vczaf7wlHA7Gzhq3W3OWZeWL6qSCepO2XXyZkKgXgLeTsRt1AnXGzdslqsNAN5F7lO5EpTAXMdK5LbAQ&user=2H8Ue30AAAAJ
   
   
