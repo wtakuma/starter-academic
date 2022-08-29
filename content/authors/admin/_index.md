@@ -68,7 +68,7 @@ social:
   link: https://www.linkedin.com/in/takumah-wisdom-63719a129?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2F%2Bvq0rKDT9qKYb9oEt0k7w%3D%3D
 - icon: orcid
   icon_pack: ai
-  link: https://orcid.org0000-0003-1227-5127
+  link: https://orcid.org/0000-0003-1227-5127
 - icon: google-scholar
   icon_pack: ai
   link: //scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F6Qe1DAsgt6w0Vczaf7wlHA7Gzhq3W3OWZeWL6qSCepO2XXyZkKgXgLeTsRt1AnXGzdslqsNAN5F7lO5EpTAXMdK5LbAQ&user=2H8Ue30AAAAJ
