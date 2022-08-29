@@ -57,9 +57,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-#- icon: user-graduate
- # icon_pack: fas
- # link:https://economics.emory.edu/people/grad-students/takumah-wisdom.html
+- icon: user-graduate
+  icon_pack: fas
+  link: https://economics.emory.edu/people/grad-students/takumah-wisdom.html
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/wtakumah
