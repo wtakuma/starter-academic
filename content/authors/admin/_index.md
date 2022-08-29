@@ -32,12 +32,21 @@ education:
   - course: PhD in Economics
     institution: Emory University
     year: 2023 (Expected)
-  - course: MSc in Economics
+  - course: M.A in Economics
     institution: Emory University
     year: 2021 
-  - course: BA (First-Class) in Economics
-    institution: National and Kapodistrian University of Athens
-    year: 2016
+  - course: M.Sc in Economics
+    institution: South Dakota State University
+    year: 2018
+  - course: M.Sc in Data Science
+    institution: South Dakota State University
+    year: 2018
+  - course: M.Phil in Economics
+    institution: University of Cape Coast
+    year: 2013
+  - course: BA (First-Class) in Economics and Economics
+    institution: University of Cape Coast
+    year: 2010
 
 
 # Social/Academic Networking
