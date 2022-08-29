@@ -27,6 +27,9 @@ feature:
   icon_pack: ai
   name: Overleaf
   
+- icon: matlab
+  icon_pack: ai
+  name: Matlab 
 - icon: r-project
   icon_pack: fab
   name: R
