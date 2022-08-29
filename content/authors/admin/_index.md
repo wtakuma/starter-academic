@@ -18,10 +18,11 @@ bio: My research interests include Empirical Macroeconomics, Time Series Econome
 
 # Interests to show in About widget
 interests:
-- Time Series Analysis of Financial data
-- Econometrics of Networks
-- Causal Inference in Multilayer Networks
-- Social Interactions
+- Empirical Macroeconomics
+- Time Series Econometrics
+- Machine Learning in Macroeconomics
+- Predictive Modelling
+
 
 
 
