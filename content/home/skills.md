@@ -24,7 +24,9 @@ feature:
 - icon: overleaf
   icon_pack: ai
   name: Overleaf
-  
+- icon: stata
+  icon_pack: ai
+  name: Stata  
 - icon: matlab
   icon_pack: fas
   name: Matlab 
