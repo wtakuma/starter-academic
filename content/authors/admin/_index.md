@@ -76,6 +76,9 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Wisdom-Takumah-2
+-icon: academia
+ icon_pack:ai
+ link: https://readership.works.bepress.com/?dashboardToken=630d06a926eddb354207e018LeRQj47cmBynHOyWW92tafCMyJFOrTle9kHtPbsT
 
 
 # Link to a PDF of your resume/CV.
