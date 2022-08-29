@@ -86,4 +86,4 @@ Emory University, he earned  masters degree in Data Science and Economics both a
 Research Assistant at United Nations University- World Institute for Development and Economic Research (UNU-WIDER) at University of Ghana. His research interests are in the areas of Empirical macroeconomics, Time Series econometrics and Machine learning applications to macroeconomics.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_AManta.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/mycv.pdf" "newtab" >}}resumé{{< /staticref >}}.
