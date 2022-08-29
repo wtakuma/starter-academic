@@ -88,10 +88,9 @@ email: "amanta@emory.edu"
 highlight_name: false
 ---
 
-Alexandra is a Ph.D. Candidate in Economics at {{< staticref "https://www.emory.edu/home/index.html" "newtab" >}}Emory University{{< /staticref >}}. Her primary research interest is in the econometrics of networks. 
+Wisdom Takumah is a PhD Candidate in Economics at Emory University. Prior to joining
+Emory University, he earned  masters degree in Data Science and Economics both at South Dakota State University. He also worked as a
+Research Assistant at United Nations University- World Institute for Development and Economic Research (UNU-WIDER) at University of Ghana. His research interests are in the areas of Empirical macroeconomics, Time Series econometrics and Machine learning applications to macroeconomics.
 
-She is also a 2021-2022 {{< staticref "https://www.gs.emory.edu/diversity/index.html" "newtab" >}}Laney EDGE{{< /staticref >}} Ambassador and instructor of the Spring 2022 course "ECON 220 Probability and Statistics: LAB1, LAB3 and LAB4" in Economics Department at Emory University.
-
-Prior to her studies at Emory, she received a BA in Economics at {{< staticref "https://en.uoa.gr/" "newtab" >}}National and Kapodistrian University of Athens{{< /staticref >}} (UOA), in Greece. During her undergraduate studies, she worked as an Assistant Researcher at the {{< staticref "https://www.ifk-cfs.de/home.html" "newtab" >}}Center of Financial Studies{{< /staticref >}} and the {{< staticref "http://www.marketing.econ.uoa.gr/laboratory-for-investment-applications.html" "newtab" >}}Laboratory for Investment Applications{{< /staticref >}} of UOA. Her working experience includes an Economic Analyst position at the Ministry of Economy and Development, in Greece.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_AManta.pdf" "newtab" >}}resumé{{< /staticref >}}.
