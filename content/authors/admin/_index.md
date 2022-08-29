@@ -14,29 +14,33 @@ organizations:
   url: https://www.emory.edu/home/index.html
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Econometric Models of Multilayer Networks.
+bio: My research interests include Empirical Macroeconomics, Time Series Econometrics, Machine Learning application in Macroeconomics.
 
 # Interests to show in About widget
 interests:
-- Time Series Analysis of Financial data
-- Econometrics of Networks
-- Causal Inference in Multilayer Networks
-- Social Interactions
+- Empirical Macroeconomics
+- Time Series Econometrics
+- Machine Learning in Macroeconomics
+- Predictive Modelling
 
 
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Economics
+   - course: PhD in Economics
     institution: Emory University
-    year: 2023 (Expected)
-  - course: MSc in Economics
-    institution: Emory University
-    year: 2021 
-  - course: BA (First-Class) in Economics
-    institution: National and Kapodistrian University of Athens
-    year: 2016
+    year: Expected (2023)
+  - course: Msc Data Science
+    institution: South Dakota State University
+    year: 2018
+  - course: Msc Economics
+    institution: South Dakota State University
+    year: 2018
+  - course: BA in Economics & Mathematics
+    institution: University of Cape Coast
+    year: 2010
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
