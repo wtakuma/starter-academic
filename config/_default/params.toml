@@ -1,4 +1,4 @@
-# SITE SETUP
+o# SITE SETUP
 # Guide: https://wowchemy.com/docs/get-started/
 # Documentation: https://wowchemy.com/docs/
 #
@@ -13,7 +13,7 @@
 #   Guide to color themes: https://wowchemy.com/docs/customization/#color-themes
 #   Browse the latest built-in font sets at https://github.com/wowchemy/wowchemy-hugo-modules/tree/master/wowchemy/themes/
 #   Browse user installed themes in `data/themes/`
-theme = "minimal"
+theme = "emory"
 
 # Enable users to switch between day and night mode?
 day_night = true
