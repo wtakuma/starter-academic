@@ -8,11 +8,6 @@
   url = "#about"
   weight = 10
 
-[[main]]
-  name = "CV"
-  url = "media/mycv.pdf"
-  weight = 20
-
 #[[main]]
  # name = "F.Publications"
  # url = "#featured"
@@ -21,18 +16,27 @@
   [[main]]
   name = "Teaching"
   url = "#teaching"
-  weight = 30
+  weight = 40
   
  [[main]]
-  name = "Publications"
+  name = "Research"
   url = "#publications"
   weight = 30
-
+  
+[[main]]
+  name = "Awards"
+  url = "#accomplishments"
+  weight = 50
 [[main]]
   name = "Projects"
   url = "#projects"
   weight = 40
 
+[[main]]
+  name = "CV"
+  url = "media/mycv.pdf"
+  weight = 20
+  
 [[main]]
   name = "Contact"
   url = "#contact"
