@@ -4,7 +4,7 @@ headless: true
 
 # ... Put Your Section Options Here (title etc.) ...
 title: Teaching
-subtitle: Average instructor rating of 8.2/9
+subtitle: Average instructor rating of 8/9
 weight: 40  # section position on page
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -15,13 +15,17 @@ design:
 
 ## Main Instructor
 
-**ECON-101: Principles Of Microeconomics** - Spring 2021 [Teaching Evaluations](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/jjestra/webpage/master/static/media/ECON-101.pdf)
+**ECON-201: Intermediate Microeconomics** - Summer 2021 [Teaching Evaluations](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/jjestra/webpage/master/static/media/ECON-101.pdf)
+**ECON-212: Intermediate Macroeconomics** - Summer 2021 [Teaching Evaluations](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/jjestra/webpage/master/static/media/ECON-101.pdf)
+**ECON-212: Intermediate Macroeconomics** - Spring 2022 [Teaching Evaluations](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/jjestra/webpage/master/static/media/ECON-101.pdf)
+
+
 
 ## Lab Instructor
 
-**QTM-100: Introduction to Statistical Inference** - Fall 2020 [Teaching Evaluations](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/jjestra/webpage/master/static/media/QTM-100-6.pdf)
+**QTM-100 Lab: Introduction to Statistical Inference** - Spring 2020, Fall 2020, Spring 2021, Fall 2021, Spring 2022, Fall 2022, [Teaching Evaluations](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/jjestra/webpage/master/static/media/QTM-100-6.pdf)
 
-**QTM-210: Probability and Statistics** - Spring 2020
+
 
 ## Teaching Assistant
 
