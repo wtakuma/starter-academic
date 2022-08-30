@@ -16,7 +16,9 @@ design:
 ## Main Instructor (Emory)
 
 **ECON-201: Intermediate Microeconomics** - Summer 2021 [Teaching Evaluations](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/jjestra/webpage/master/static/media/ECON-101.pdf)
+
 **ECON-212: Intermediate Macroeconomics** - Summer 2021 [Teaching Evaluations](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/jjestra/webpage/master/static/media/ECON-101.pdf)
+
 **ECON-212: Intermediate Macroeconomics** - Spring 2022 [Teaching Evaluations](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/jjestra/webpage/master/static/media/ECON-101.pdf)
 
 
@@ -29,7 +31,9 @@ design:
 
 ## Teaching Assistant (Emory)
 **Econ 212: Intermediate Macroeconomics (Fall 2021) ” with Prof. Jong Kim
+
 **Econ 220: Probability & Statistics for Economist. (Spring 2021) with Prof. Jong Kim
+
 **Econ 333 -Financial Economics,Econ 415 -Behavioral Economics & Finance and
 Econ 423-Financial Econometrics (Spring 2020) with Prof. John Kim.
 
@@ -37,6 +41,7 @@ Econ 423-Financial Econometrics (Spring 2020) with Prof. John Kim.
 ## Teaching Assistant (South Dakota State University)
 
 **ECON-201: Intermediate Microeconomics** - Fall 2016
+
 **ECON-202: Intermediate Macroeconomics** - Spring 2017
 
 
