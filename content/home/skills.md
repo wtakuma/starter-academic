@@ -27,7 +27,7 @@ feature:
 - icon: stata
   icon_pack: ai
   name: Stata  
-- icon: matlab
+- icon: chart-bar
   icon_pack: fas
   name: Matlab 
 - icon: r-project
