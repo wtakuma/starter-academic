@@ -34,7 +34,7 @@ design:
 
 **Econ 220: Probability & Statistics for Economist (Spring 2021)** with Jong Kim
 
-**Econ 333 - Financial Economics,  Econ 415 - Behavioral Economics & Finance, 
+**Econ 333 - Financial Economics (Spring 2020),  Econ 415 - Behavioral Economics & Finance (Spring 2020), 
 Econ 423 - Financial Econometrics (Spring 2020)** with John Kim.
 
 
