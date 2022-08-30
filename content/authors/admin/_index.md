@@ -20,6 +20,7 @@ bio: My research interests include Empirical Macroeconomics, Time Series Econome
 interests:
 - Empirical Macroeconomics
 - Time Series Econometrics
+- High Dimensional Data Analysis
 - Machine Learning Application in Macroeconomics
 - Predictive Modelling
 
@@ -98,9 +99,9 @@ email: "wtakuma@emory.edu"
 highlight_name: false
 ---
 
-Wisdom Takumah is a PhD Candidate in Economics at Emory University. Prior to joining
-Emory University, he earned  masters degree in Data Science and Economics both at South Dakota State University. He also worked as a
-Research Assistant at United Nations University- World Institute for Development and Economic Research (UNU-WIDER) at University of Ghana. His research interests are in the areas of Empirical macroeconomics, Time Series econometrics and Machine learning applications to macroeconomics.
+I am a PhD Candidate in Economics at Emory University. Prior to joining
+Emory University, I earned double master degree in Data Science and Economics at South Dakota State University. I have worked as a
+Research Assistant at United Nations University- World Institute for Development and Economic Research (UNU-WIDER) at University of Ghana. My research interests includes Empirical macroeconomics, Time Series Analysis and Machine Learning applications to Macroeconomics.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/mycv.pdf" "newtab" >}}resumé{{< /staticref >}}.
