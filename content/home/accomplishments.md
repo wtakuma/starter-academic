@@ -28,7 +28,7 @@ date_format: Jan 2006
 item:
 - certificate_url: 
   date_end: ""
-  date_start: "2028-04-13"
+  date_start: "2018-04-15"
   description: ""
   organization: South Dakota State University Department of Economics
   organization_url: https://economics.emory.edu/
