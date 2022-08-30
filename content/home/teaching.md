@@ -30,12 +30,12 @@ design:
 
 
 ## Teaching Assistant (Emory)
-**Econ 212: Intermediate Macroeconomics (Fall 2021)** ” with Prof. Jong Kim
+**Econ 212: Intermediate Macroeconomics (Fall 2021)**  with  Jong Kim
 
-**Econ 220: Probability & Statistics for Economist (Spring 2021)** with Prof. Jong Kim
+**Econ 220: Probability & Statistics for Economist (Spring 2021)** with Jong Kim
 
-**Econ 333 -Financial Economics,Econ 415 -Behavioral Economics & Finance and
-Econ 423-Financial Econometrics (Spring 2020)** with Prof. John Kim.
+**Econ 333 - Financial Economics,  Econ 415 - Behavioral Economics & Finance, 
+Econ 423 - Financial Econometrics (Spring 2020)** with John Kim.
 
 
 ## Teaching Assistant (SDSU)
