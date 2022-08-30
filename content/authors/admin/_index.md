@@ -80,7 +80,7 @@ social:
   icon_pack: ai
   link: https://www.researchgate.net/profile/Wisdom-Takumah-2
 -icon: ideas-repec
- icon_pack:fab
+ icon_pack:ai
  link: https://readership.works.bepress.com/?dashboardToken=630d06a926eddb354207e018LeRQj47cmBynHOyWW92tafCMyJFOrTle9kHtPbsT
 
 
