@@ -13,7 +13,7 @@ design:
 
 # Courses Taught:
 
-## Main Instructor
+## Main Instructor (Emory)
 
 **ECON-201: Intermediate Microeconomics** - Summer 2021 [Teaching Evaluations](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/jjestra/webpage/master/static/media/ECON-101.pdf)
 **ECON-212: Intermediate Macroeconomics** - Summer 2021 [Teaching Evaluations](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/jjestra/webpage/master/static/media/ECON-101.pdf)
@@ -21,27 +21,24 @@ design:
 
 
 
-## Lab Instructor
+## Lab Instructor (Emory)
 
 **QTM-100 Lab: Introduction to Statistical Inference** - Spring 2020, Fall 2020, Spring 2021, Fall 2021, Spring 2022, Fall 2022, [Teaching Evaluations](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/jjestra/webpage/master/static/media/QTM-100-6.pdf)
 
 
 
-## Teaching Assistant
+## Teaching Assistant (Emory)
+**Econ 212: Intermediate Macroeconomics (Fall 2021) ” with Prof. Jong Kim
+**Econ 220: Probability & Statistics for Economist. (Spring 2021) with Prof. Jong Kim
+**Econ 333 -Financial Economics,Econ 415 -Behavioral Economics & Finance and
+Econ 423-Financial Econometrics (Spring 2020) with Prof. John Kim.
 
-### Including Weekly Sessions 
 
-**ECON-521: Advanced Econometrics (PhD Core)** - Spring 2019, 2020, 2022 [Teaching Evaluations](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fjjestra%2Fwebpage%2Fmaster%2Fstatic%2Fmedia%2FEcon_521_TA_Results.xlsx&wdOrigin=BROWSELINK)
+## Teaching Assistant (South Dakota State University)
 
-**ECON-520: Probability Theory & Statistical Inference (PhD Core)** - Fall 2021 [Teaching Evaluations](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fjjestra%2Fwebpage%2Fmaster%2Fstatic%2Fmedia%2FEcon_520_TA_Results.xlsx&wdOrigin=BROWSELINK)
+**ECON-201: Intermediate Microeconomics** - Fall 2016
+**ECON-202: Intermediate Macroeconomics** - Spring 2017
 
-### Others
-
-**ECON-220: Probability & Statatistics for Economists** - Fall 2020, Spring 2022
-
-**ECON-320: Econometrics** - Fall 2021
-
-**ECON-485: Empirical Methods & Machine Learning** - Spring 2020
 
 
 
