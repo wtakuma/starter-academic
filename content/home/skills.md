@@ -20,7 +20,7 @@ feature:
 
 - icon: chart-line
   icon_pack: fas
-  name: Statistics
+  name: Statistics & Econometrics
 - icon: overleaf
   icon_pack: ai
   name: Overleaf
@@ -39,7 +39,13 @@ feature:
 - icon: github
   icon_pack: fab
   name: Github
-
+- icon: sql
+  icon_pack: fab
+  name: SQL
+- icon: sas
+  icon_pack: fab
+  name: SAS
+  
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
