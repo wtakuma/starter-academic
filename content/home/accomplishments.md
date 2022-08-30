@@ -24,7 +24,7 @@ date_format: Jan 2006
 #   `title`, `organization`, and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-item:
+
 item:
 - certificate_url: 
   date_end: ""
@@ -34,4 +34,6 @@ item:
   organization_url: https://economics.emory.edu/
   title: Best Economics Graduate Student Research Award
   url: ""
-
+design:
+  columns: '2' 
+---
