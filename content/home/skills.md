@@ -39,11 +39,11 @@ feature:
 - icon: github
   icon_pack: fab
   name: Github
-- icon: sql
-  icon_pack: fab
+- icon: database
+  icon_pack: fas
   name: SQL
-- icon: sas
-  icon_pack: fab
+- icon: database
+  icon_pack: fas
   name: SAS
   
 # Uncomment to use emoji icons.
