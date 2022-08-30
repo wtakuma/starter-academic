@@ -31,7 +31,7 @@ item:
   date_start: "2018-04-15"
   description: ""
   organization: South Dakota State University Department of Economics
-  organization_url: https://economics.emory.edu/
+  organization_url: https://www.sdstate.edu/ness-school-management-and-economics/about-school
   title: Best Economics Graduate Student Research Award
   url: ""
 design:
