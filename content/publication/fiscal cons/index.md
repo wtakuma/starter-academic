@@ -5,7 +5,7 @@ with Cointegrated Factors"
 date = "2018-09-11"
 publishDate = "2018-09-11"
 authors = ["Wisdom Takumah"]
-publication_types = ["3"]
+publication_types = ["2"]
 publication = "**International Advances in Economic Research**, 24"
 publication_short = "**International Advances in Economic Research**, 24"
 doi = "10.1007/s11294-018-9711-y"
