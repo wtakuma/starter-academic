@@ -3,7 +3,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Effects of government Spending and Gonsumption Dynamics"
+title: "Effects of Government Spending and Consumption Dynamics"
 authors: [Takumah, W.]
 date: 2021-05-14T20:42:26-05:00
 
