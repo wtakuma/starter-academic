@@ -3,7 +3,7 @@
 
 title: "Fiscal Policy and Asset Prices in a Dynamic Factor Model with Cointegrated Factors"
 authors: [Takumah, W.]
-#date: 2022-08-14T20:42:26-05:00
+date: 2022-08-14T20:42:26-05:00
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: 2019-11-14T20:42:26-05:00
