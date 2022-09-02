@@ -3,9 +3,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Implications of macroeconomic controls in Ghana"
+title: "Effects of government Spending and Gonsumption Dynamics"
 authors: [Takumah, W.]
-date: 2019-04-14T20:42:26-05:00
+date: 2021-05-14T20:42:26-05:00
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: 2019-11-14T20:42:26-05:00
@@ -21,22 +21,16 @@ publication_types: ["3"]
 
 publication_short: ""
 
-abstract: "Ghana’s desire to achieve sustainable economic growth with relatively stable price
-level pursue both monetary and fiscal policies that could lead to macroeconomic. This
-study examines the effects of fiscal and monetary policy on economic growth and
-determine the level of convergence of growth for Ghana by applying structural equation
-modeling (SEM) using time series data from 2008 to 2017. Both short run and long-run
-results revealed that the ratio of government spending to private investment was
-statistically significant and it exerted a positive impact on economic growth, an indication
-that government expenditure is a key channel through which economic growth can be
-achieved. It was also revealed that real interest rate which is a monetary policy tool have a
-negative effect on economic growth in Ghana. The study also revealed that government
-spending shocks decreases private investment in Ghana, which results in crowding out in
-the economy. It was recommended that to achieve higher and sustainable economic growth,
-government must embark on expansionary fiscal policies through investment in
-infrastructure development to create jobs and generate income tax to finance other
-developmental projects. Also, the Bank of Ghana must reduce its lending rates to
-encourage private sector development to enhance growth and development of the economy
+abstract: "The effects of fiscal policy on the economy is increasingly popular in the literature
+of empirical macroeconomics and factor-augmented vector autoregressive (FAVAR)
+models have become a popular tool in explaining how economic variables interact
+over time.This paper focused on the effect of fiscal policy on aggregate and dis-
+aggregated consumption by applying the factor-augmented vector autoregression
+(FAVAR) model. The study specifically estimated the FAVAR model using the
+computationally simpler principal component method. The result shows that con-
+sumption increases after government spending shock. Also, there is heterogeneous
+effects within disaggregated consumption variables resulting from government spend-
+ing shock.
 "
 
 # Summary. An optional shortened abstract.
@@ -54,7 +48,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://github.com/wtakuma/starter-academic/blob/master/content/publication/macro_controls/Macro_control.pdf
+url_pdf: https://github.com/wtakuma/starter-academic/blob/master/content/publication/thirdyear/Government_Spending_and_consumption_Dynamics.pdf
 url_code:
 url_dataset:
 url_poster:
