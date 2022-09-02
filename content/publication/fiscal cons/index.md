@@ -20,7 +20,7 @@ publication: "<br />
 <br />
 *94th International Atlantic Economic Conference. Scheduled October 2022.*<br />
 <br />
-*2023 ASSA AEA Annaul Meetings. New Orleans. Louisiana. Scheduled January 2023*"
+*2023 ASSA AEA Annual Meetings. New Orleans. Louisiana. Scheduled January 2023*"
 
 
 publication_short: ""
