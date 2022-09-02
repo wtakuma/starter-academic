@@ -2,9 +2,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Fiscal Policy and Asset Prices in a Dynamic Factor Model with Cointegrated Factors"
+title: "The Dynamic Causal Relationship between Government Revenue and Government  Expenditure Nexus in Ghana"
 authors: [Takumah, W.]
-date: 2022-08-14T20:42:26-05:00
+date: 2014-04-14T20:42:26-05:00
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: 2019-11-14T20:42:26-05:00
@@ -16,19 +16,11 @@ date: 2022-08-14T20:42:26-05:00
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "<br />
-**Presentations:**<br />
-<br />
-*94th International Atlantic Economic Conference. Scheduled October 2022.*<br />
-<br />
-*2023 ASSA AEA Annaul Meetings. New Orleans. Louisiana. Scheduled January 2023*"
 
 
 publication_short: ""
 
-abstract: "This paper investigates the effects of fiscal policy on asset prices using structural dynamic factor model (SDFM) with cointegrated factors. Much of the focus in the literature were on monetary policy and asset prices, with little attention to fiscal policy. In this paper I estimated the impulse response functions (IRFs) of stock price and house to government spending shocks using a quarterly dataset with 207 macroeconomic and financial variables obtained from St.
-Louis FRED website. Government spending shock was identified by combining “named factor normalization” and “unit effect normalization” and applying Cholesky decomposition. The results of the IRFs shows that both stock price and house price responded positively to government spending shock and the effects were persistent and not temporal as suggested in the literature. Results from forecast error variance decomposition shows that government spending shock explained high percentage of the forecast error variance in real GDP, consumption, and fixed investment. This paper highlighted the importance of allowing cointegration among
-factors within the SDFM framework and the role played by using larger datasets in resolving the limited information problems inherent in SVAR analysis. The results implies that fiscal policy leads to a boom in housing and stock markets.
+abstract: "The relationship between government revenue and government expenditure has been an important topic in public economics, given its relevance for policy especially with respect to the budget deficit. The purpose of this paper is to investigate the relationship between government revenue and government expenditure in Ghana for the period 1986 - 2012. We include GDP as a control variable into the model. Data properties were analyzed to determine their stationarity using the DF-GLS and PP unit root tests which indicated that the series are I(1). We find a cointegration relationship between government revenue and government expenditure. The causality tests indicate that there is a bidirectional causal relationship between government expenditure and revenues in both the long and the short run hence confirming the Fiscal synchronization hypothesis. The policy implication of the results suggests that there is interdependence between government expenditure and revenues. The government makes its expenditure and revenues decision simultaneously. Under this scenario the fiscal authorities of these countries with budget deficits should raise revenues and decrease spending simultaneously in order to control their budget deficits.
 "
 
 # Summary. An optional shortened abstract.
@@ -46,7 +38,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://github.com/wtakuma/starter-academic/blob/master/content/publication/fiscal%20cons/Working_Paper.pdf
+url_pdf: https://mpra.ub.uni-muenchen.de/58579/1/MPRA_paper_58579.pdf
 url_code:
 url_dataset:
 url_poster:
