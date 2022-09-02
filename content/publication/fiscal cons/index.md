@@ -2,7 +2,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Social Interactions in Multilayered Observational Networks"
+title: "Fiscal Policy and Asset Prices in a Dynamic
+Factor Model with Cointegrated Factors"
 authors: [Takumah, W.]
 date: 2022-01-14T20:42:26-05:00
 
@@ -19,15 +20,29 @@ publication_types: ["3"]
 publication: "<br />
 **Presentations:**<br />
 <br />
-*European Winter Meetings of The Econometric Society 2021.*<br />
+*94th International Atlantic Economics Conference October 2022.*<br />
 <br />
-*16th Economics Graduate Students’ Conference Washington University in St.Louis.*<br />
+*2023 ASSA AEA annual Meetings. New Orleanss, Louisiana.*<br />
 <br />
-*IAAE 2022 Annual Conference*"
+
 
 publication_short: ""
 
-abstract: "This paper proposes a new method to identify and estimate the parameters of an extension of a linear model of peer effects where individuals form different types of social and professional connections that can affect their outcomes. A stylized model provides a theoretical framework for the peer effects linear specification and the main identifying assumptions, which are used to provide identification results in a setting that allows all layers in the multilayer network to be endogenous. I show that identifying heterogeneous network effects is possible under the assumption that the dependence between individuals in the population is characterized by a stochastic process where dependence vanishes in the network space. I offer a novel multilayer measure of distance that provides a source of exogenous variation used to form identifying moment conditions. I propose a Generalized Method of Moments estimator that is consistent and asymptotically normal at the standard rate, for which I characterize the asymptotic variance-covariance matrix that considers the intrinsic network dependence among individuals. A Monte Carlo experiment confirms the desirable finite properties of the proposed estimator, and an empirical application finds positive and significant peer effects in citations from a multilayer network of professional connections."
+abstract: "This paper investigates the effects of fiscal policy on asset prices using structural dynamic
+factor model (SDFM) with cointegrated factors. Much of the focus in the literature were on
+monetary policy and asset prices, with little attention to fiscal policy. In this paper I estimated
+the impulse response functions (IRFs) of stock price and house to government spending shocks
+using a quarterly dataset with 207 macroeconomic and financial variables obtained from St.
+Louis FRED website. Government spending shock was identified by combining “named factor
+normalization” and “unit effect normalization” and applying Cholesky decomposition. The
+results of the IRFs shows that both stock price and house price responded positively to government
+spending shock and the effects were persistent and not temporal as suggested in the
+literature. Results from forecast error variance decomposition shows that government spending
+shock explained high percentage of the forecast error variance in real GDP, consumption,
+and fixed investment. This paper highlighted the importance of allowing cointegration among
+factors within the SDFM framework and the role played by using larger datasets in resolving
+the limited information problems inherent in SVAR analysis. The results implies that fiscal
+policy leads to a boom in housing and stock markets."
 
 # Summary. An optional shortened abstract.
 summary: ""
