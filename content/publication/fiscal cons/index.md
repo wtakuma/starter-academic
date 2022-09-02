@@ -43,7 +43,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://github.com/jjestra/webpage/raw/master/content/publication/2022-Multilayer-Causal-Inference/multilayer_networks_JE.pdf
+url_pdf: https://github.com/wtakuma/starter-academic/blob/master/content/publication/fiscal%20cons/Working_Paper.pdf
 url_code:
 url_dataset:
 url_poster:
