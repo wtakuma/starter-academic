@@ -2,7 +2,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "The Dynamic Causal Relationship between Government Revenue and Government  Expenditure Nexus in Ghana"
+title: "Implications of macroeconomic controls in Ghana"
 authors: [Takumah, W.]
 date: 2014-04-14T20:42:26-05:00
 
@@ -20,7 +20,22 @@ publication_types: ["3"]
 
 publication_short: ""
 
-abstract: "The relationship between government revenue and government expenditure has been an important topic in public economics, given its relevance for policy especially with respect to the budget deficit. The purpose of this paper is to investigate the relationship between government revenue and government expenditure in Ghana for the period 1986 - 2012. We include GDP as a control variable into the model. Data properties were analyzed to determine their stationarity using the DF-GLS and PP unit root tests which indicated that the series are I(1). We find a cointegration relationship between government revenue and government expenditure. The causality tests indicate that there is a bidirectional causal relationship between government expenditure and revenues in both the long and the short run hence confirming the Fiscal synchronization hypothesis. The policy implication of the results suggests that there is interdependence between government expenditure and revenues. The government makes its expenditure and revenues decision simultaneously. Under this scenario the fiscal authorities of these countries with budget deficits should raise revenues and decrease spending simultaneously in order to control their budget deficits.
+abstract: "Ghana’s desire to achieve sustainable economic growth with relatively stable price
+level pursue both monetary and fiscal policies that could lead to macroeconomic. This
+study examines the effects of fiscal and monetary policy on economic growth and
+determine the level of convergence of growth for Ghana by applying structural equation
+modeling (SEM) using time series data from 2008 to 2017. Both short run and long-run
+results revealed that the ratio of government spending to private investment was
+statistically significant and it exerted a positive impact on economic growth, an indication
+that government expenditure is a key channel through which economic growth can be
+achieved. It was also revealed that real interest rate which is a monetary policy tool have a
+negative effect on economic growth in Ghana. The study also revealed that government
+spending shocks decreases private investment in Ghana, which results in crowding out in
+the economy. It was recommended that to achieve higher and sustainable economic growth,
+government must embark on expansionary fiscal policies through investment in
+infrastructure development to create jobs and generate income tax to finance other
+developmental projects. Also, the Bank of Ghana must reduce its lending rates to
+encourage private sector development to enhance growth and development of the economy
 "
 
 # Summary. An optional shortened abstract.
