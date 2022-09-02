@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Social Interactions in Multilayered Observational Networks"
-authors: [Estrada, J.]
+authors: [Takumah, W.]
 date: 2022-01-14T20:42:26-05:00
 
 # Schedule page publish date (NOT publication's date).
