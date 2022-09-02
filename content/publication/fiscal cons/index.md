@@ -3,7 +3,7 @@
 
 title: "Fiscal Policy and Asset Prices in a Dynamic Factor Model with Cointegrated Factors"
 authors: [Takumah, W.]
-date: 2022-01-14T20:42:26-05:00
+#date: 2022-08-14T20:42:26-05:00
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: 2019-11-14T20:42:26-05:00
@@ -18,11 +18,10 @@ publication_types: ["3"]
 publication: "<br />
 **Presentations:**<br />
 <br />
-*European Winter Meetings of The Econometric Society 2021.*<br />
+*94th International Atlantic Economic Conference. Scheduled October 2022.*<br />
 <br />
-*16th Economics Graduate Students’ Conference Washington University in St.Louis.*<br />
+*2023 ASSA AEA Annaul Meetings. New Orleans. Louisiana. Scheduled January 2023.*<br />
 <br />
-*IAAE 2022 Annual Conference*"
 
 publication_short: ""
 
