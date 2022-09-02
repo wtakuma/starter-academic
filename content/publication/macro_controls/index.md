@@ -53,7 +53,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://mpra.ub.uni-muenchen.de/58579/1/MPRA_paper_58579.pdf
+url_pdf: https://github.com/wtakuma/starter-academic/blob/master/content/publication/macro_controls/Macro_control.pdf
 url_code:
 url_dataset:
 url_poster:
