@@ -5,8 +5,8 @@ tags:
 - Predictive Modelling
 date: "2017-04-27T00:00:00Z"
 
-Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/wtakuma/starter-academic/blob/master/content/Bad%20customers.pdf"
+#Optional external URL for project (replaces project detail page).
+external_link: ""
 
 image:
   caption: Photo by rawpixel on Unsplash
