@@ -1,12 +1,12 @@
 ---
 title: Predicting bad customers in credit dataset.
-summary: The goal of this project was to predict “Bad” customers using dataset consisting of  9,997 customers and 26 variables.
+summary: The goal of this project was to predict “Bad” customers using dataset consisting of 9,997 customers and 26 variables.
 tags:
 - Predictive Modelling
 date: "2017-04-27T00:00:00Z"
 
-# Optional external URL for project (replaces project detail page).
-external_link: ""
+Optional external URL for project (replaces project detail page).
+external_link: "https://github.com/wtakuma/starter-academic/blob/master/content/Bad%20customers.pdf"
 
 image:
   caption: Photo by rawpixel on Unsplash
