@@ -1,5 +1,5 @@
 
----
++++
 title = "Currency Internationalization and the International Price System"
 date = "2018-09-11"
 publishDate = "2018-09-11"
@@ -27,5 +27,5 @@ highlight = true
 [header]
 image = ""
 caption = ""
----
++++
 
