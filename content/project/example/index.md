@@ -19,7 +19,7 @@ image:
  #url: https://twitter.com/wtakumah
 url_code: ""
 url_pdf: ""
-url_slides: ""
+url_slides: "https://github.com/wtakuma/starter-academic/blob/master/content/Wisdom_Takumah_Presentation.pptx"
 url_video: ""
 
 # Slides (optional).
