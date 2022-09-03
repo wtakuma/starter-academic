@@ -18,8 +18,8 @@ links:
  # name: Follow
  #url: https://twitter.com/wtakumah
 url_code: ""
-url_pdf: "https://github.com/wtakuma/starter-academic/blob/master/content/Bad%20customers.pdf"
-url_slides: "https://github.com/wtakuma/starter-academic/blob/master/content/Wisdom_Takumah_Presentation.pptx"
+url_pdf: "https://github.com/wtakuma/starter-academic/blob/master/content/passcode.pdf"
+url_slides: ""
 url_video: ""
 
 # Slides (optional).
