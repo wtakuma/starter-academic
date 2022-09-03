@@ -25,7 +25,7 @@ feature:
   icon_pack: ai
   name: Overleaf
 - icon: chart-pie
-  icon_pack: ai
+  icon_pack: fas
   name: Stata  
 - icon: chart-bar
   icon_pack: fas
