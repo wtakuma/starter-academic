@@ -12,13 +12,13 @@ image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
-#links:
+links:
 #- icon: twitter
  # icon_pack: fab
  # name: Follow
  #url: https://twitter.com/wtakumah
 url_code: ""
-url_pdf: ""
+url_pdf: "https://github.com/wtakuma/starter-academic/blob/master/content/Bad%20customers.pdf"
 url_slides: "https://github.com/wtakuma/starter-academic/blob/master/content/Wisdom_Takumah_Presentation.pptx"
 url_video: ""
 
