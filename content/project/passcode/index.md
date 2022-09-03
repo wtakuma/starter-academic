@@ -1,6 +1,6 @@
 ---
 title: Predicting Passcode User.
-summary: The goal of this project was to predict “Bad” customers using dataset consisting of 9,997 customers and 26 variables.
+summary: Analyzing the typing speed of a group of 51 users.
 tags:
 - Predictive Modelling
 date: "2017-04-27T00:00:00Z"
