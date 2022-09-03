@@ -15,11 +15,11 @@ design:
 
 ## Main Instructor (Emory)
 
-**ECON-212: Intermediate Macroeconomics** - Spring 2022 [Teaching Evaluations](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/jjestra/webpage/master/static/media/ECON-101.pdf)
+**ECON-212: Intermediate Macroeconomics** - Spring 2022 [Teaching Evaluations](https://github.com/wtakuma/starter-academic/blob/master/assets/images/ECON-212-3IntermediateMacroeconomics-Spring2022_WisdomTakumah.pdf)
 
-**ECON-201: Intermediate Microeconomics** - Summer 2021 [Teaching Evaluations](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/jjestra/webpage/master/static/media/ECON-101.pdf)
+**ECON-201: Intermediate Microeconomics** - Summer 2021 [Teaching Evaluations](https://github.com/wtakuma/starter-academic/blob/master/assets/images/QTM-100-12IntrotoStatInference-Spring2022_WisdomTakumah.pdf)
 
-**ECON-212: Intermediate Macroeconomics** - Summer 2021 [Teaching Evaluations](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/jjestra/webpage/master/static/media/ECON-101.pdf)
+**ECON-212: Intermediate Macroeconomics** - Summer 2021 [Teaching Evaluations](https://github.com/wtakuma/starter-academic/blob/master/assets/images/ECON-212-2IntermediateMacroeconomics-Summer2021_WisdomTakumah.pdf)
 
 
 
@@ -27,7 +27,7 @@ design:
 
 ## Lab Instructor (Emory)
 
-**QTM-100 Lab: Introduction to Statistical Inference** - Spring 2020, Fall 2020, Spring 2021, Fall 2021, Spring 2022, Fall 2022, [Teaching Evaluations](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/jjestra/webpage/master/static/media/QTM-100-6.pdf)
+**QTM-100 Lab: Introduction to Statistical Inference** - Spring 2020, Fall 2020, Spring 2021, Fall 2021, Spring 2022, Fall 2022, 
 
 
 
