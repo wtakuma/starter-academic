@@ -15,11 +15,13 @@ design:
 
 ## Main Instructor (Emory)
 
+**ECON-212: Intermediate Macroeconomics** - Spring 2022 [Teaching Evaluations](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/jjestra/webpage/master/static/media/ECON-101.pdf)
+
 **ECON-201: Intermediate Microeconomics** - Summer 2021 [Teaching Evaluations](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/jjestra/webpage/master/static/media/ECON-101.pdf)
 
 **ECON-212: Intermediate Macroeconomics** - Summer 2021 [Teaching Evaluations](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/jjestra/webpage/master/static/media/ECON-101.pdf)
 
-**ECON-212: Intermediate Macroeconomics** - Spring 2022 [Teaching Evaluations](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/jjestra/webpage/master/static/media/ECON-101.pdf)
+
 
 
 
