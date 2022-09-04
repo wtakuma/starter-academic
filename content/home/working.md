@@ -13,7 +13,7 @@ active: true
 weight: 30
 
 title: Working Papers
-subtitle: 'Working Papers'
+subtitle: ''
 
 content:
   # Page type to display. E.g. post, talk, publication...
