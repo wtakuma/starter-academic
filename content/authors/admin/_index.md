@@ -80,7 +80,7 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Wisdom-Takumah-2
-- icon: google-scholar
+- icon: comment
   icon_pack: ai
   link: https://readership.works.bepress.com/?dashboardToken=630d06a926eddb354207e018LeRQj47cmBynHOyWW92tafCMyJFOrTle9kHtPbsT
 
