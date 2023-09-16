@@ -36,5 +36,19 @@ item:
   title: Best Economics Graduate Student Research Award
   url: ""
 design:
+  columns: '2'
+
+  item:
+- certificate_url: 
+  date_end: ""
+  date_start: "2023-09-01"
+  description: ""
+  organization: Emory Center for Digital Scholarship (ECDS)
+  organization_url: https://economics.emory.edu
+  title:Emory Library ECDS Data Service Fellowship
+  url: ""
+design:
   columns: '2' 
+---
+
 ---
