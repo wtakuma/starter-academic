@@ -101,8 +101,7 @@ highlight_name: false
 ---
 
 I am a PhD Candidate in Economics at Emory University. Prior to joining
-Emory University, I earned double master degree in Data Science and Economics at South Dakota State University. I have worked as a
-Research Assistant at United Nations University- World Institute for Development and Economic Research (UNU-WIDER) at University of Ghana. My research interests includes Empirical macroeconomics, Time Series Analysis and Machine Learning applications to Macroeconomics.
+Emory University, I earned double master degree in Data Science and Economics at South Dakota State University. I have worked as a Research Assistant at United Nations University- World Institute for Development and Economic Research (UNU-WIDER) at University of Ghana. My research interests includes Empirical macroeconomics, Fiscal and Monetary Policy, Time Series Analysis and Machine Learning applications to Macroeconomics.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/mycv.pdf" "newtab" >}}resumé{{< /staticref >}}.
