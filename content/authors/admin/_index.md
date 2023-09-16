@@ -20,9 +20,10 @@ bio: My research interests include Empirical Macroeconomics, Time Series Econome
 interests:
 - Empirical Macroeconomics
 - Time Series Econometrics
-- High Dimensional Data Analysis
+- Fiscal and Monetary Policy
+- Big Data Analysis
 - Machine Learning Application in Macroeconomics
-- Predictive Modelling
+
 
 
 
@@ -32,7 +33,7 @@ education:
   courses:
   - course: PhD in Economics
     institution: Emory University
-    year: 2023 (Expected)
+    year: 2024 (Expected)
   - course: M.A in Economics
     institution: Emory University
     year: 2021 
