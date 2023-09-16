@@ -27,7 +27,7 @@ date_format: Jan 2006
 
 item:
 - certificate_url: 
-  date_end: "2024-05-24"
+  date_end: ""
   date_start: "2023-09-01"
   description: ""
   organization: Emory Center for Digital Scholarship (ECDS)
