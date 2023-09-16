@@ -31,20 +31,19 @@ item:
   date_start: "2023-09-01"
   description: ""
   organization: Emory Center for Digital Scholarship (ECDS)
-  organization_url: [https://economics.emory.edu]
+  organization_url: https://economics.emory.edu
   title:Emory Library ECDS Data Service Fellowship
   url: ""
 design:
   columns: '2' 
 ---
-
 item:
 - certificate_url: 
   date_end: ""
   date_start: "2018-08-22"
   description: ""
   organization: Emory University Department of Economics
-  organization_url: [https://economics.emory.edu]
+  organization_url: https://economics.emory.edu
   title: PhD Economics Graduate Scholarship
   url: ""
 design:
