@@ -14,12 +14,14 @@ design:
 # Courses Taught:
 
 ## Main Instructor (Emory)
-
-**ECON-212: Intermediate Macroeconomics** - Spring 2022 [Teaching Evaluations](https://github.com/wtakuma/starter-academic/blob/master/assets/images/ECON-212-3IntermediateMacroeconomics-Spring2022_WisdomTakumah.pdf)
-
-**ECON-201: Intermediate Microeconomics** - Summer 2021 [Teaching Evaluations](https://github.com/wtakuma/starter-academic/blob/master/assets/images/QTM-100-2IntrotoStatInference-Fall2021_WisdomTakumah.pdf)
-
-**ECON-212: Intermediate Macroeconomics** - Summer 2021 [Teaching Evaluations](https://github.com/wtakuma/starter-academic/blob/master/assets/images/ECON-212-2IntermediateMacroeconomics-Summer2021_WisdomTakumah.pdf)
+**ECON-215: Stocks, Bonds and Financial Markets** - Spring 2023
+**ECON-212: Intermediate Macroeconomics & Econ 411: Money and Banking** - Summer 2023
+**ECON-212: Intermediate Macroeconomics & Econ 411: Money and Banking** - Spring 2023
+**ECON-212: Intermediate Macroeconomics** - Spring 2023
+**ECON-212: Intermediate Macroeconomics** - Fall 2022
+**ECON-212: Intermediate Macroeconomics** - Spring 2022 
+**ECON-201: Intermediate Microeconomics** - Summer 2021 
+**ECON-212: Intermediate Macroeconomics** - Summer 2021 
 
 
 
@@ -27,7 +29,7 @@ design:
 
 ## Lab Instructor (Emory)
 
-**QTM-100 Lab: Introduction to Statistical Inference** - [Spring 2020](https://github.com/wtakuma/starter-academic/blob/master/assets/images/QTM-100-12IntrotoStatInference-Spring2022_WisdomTakumah.pdf), [Fall 2020](https://github.com/wtakuma/starter-academic/blob/master/assets/images/QTM-100-8IntrotoStatInference-Fall2020_WisdomTakumah.pdf), [Spring 2021](https://github.com/wtakuma/starter-academic/blob/master/assets/images/QTM-100-6IntrotoStatInference-Spring2021_WisdomTakumah.pdf), [Fall 2021](https://github.com/wtakuma/starter-academic/blob/master/assets/images/QTM-100-6IntrotoStatInference-Fall2021_WisdomTakumah.pdf), [Spring 2022](https://github.com/wtakuma/starter-academic/blob/master/assets/images/QTM-100-12IntrotoStatInference-Spring2022_WisdomTakumah.pdf), Fall 2022, 
+**QTM-100 Lab: Introduction to Statistical Inference** - [Spring 2020], [Fall 2020], [Spring 2021], [Fall 2021], [Spring 2022] [Fall 2022], [Spring 2023], [Summer 2022]
 
 
 
