@@ -36,7 +36,7 @@ item:
   url: ""
 design:
   columns: '2' 
-
+---
 
 item:
 - certificate_url: 
@@ -49,7 +49,7 @@ item:
   url: ""
 design:
   columns: '2' 
-
+---
 item:
 - certificate_url: 
   date_end: ""
