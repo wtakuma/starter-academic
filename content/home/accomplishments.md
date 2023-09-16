@@ -26,8 +26,19 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
 
+item:
+- certificate_url: 
+  date_end: ""
+  date_start: "2018-04-15"
+  description: ""
+  organization: South Dakota State University Department of Economics
+  organization_url: https://www.sdstate.edu/ness-school-management-and-economics/about-school
+  title: Best Economics Graduate Student Research Award
+  url: ""
+design:
+  columns: '2'
 
-  item:
+item:
 - certificate_url: 
   date_end: ""
   date_start: "2023-09-01"
