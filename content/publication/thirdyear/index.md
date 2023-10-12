@@ -48,7 +48,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://github.com/wtakuma/starter-academic/blob/master/content/publication/thirdyear/Government_Spending_and_consumption_Dynamics.pdf
+url_pdf: https://github.com/wtakuma/starter-academic/blob/master/content/publication/thirdyear/Effects of government spending on consumption_dynamics.pdf
 url_code:
 url_dataset:
 url_poster:
