@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Fiscal Policy and Asset Prices in a Dynamic Factor Model with Cointegrated Factors"
+title: "Fiscal Policy and Asset Prices in a Dynamic Factor Model with Cointegrated Factors (Submitted)"
 authors: [Takumah, W.]
-date: 2022-08-14T20:42:26-05:00
+date: 2023-06-28T20:42:26-05:00
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: 2019-11-14T20:42:26-05:00
@@ -15,12 +15,7 @@ date: 2022-08-14T20:42:26-05:00
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "<br />
-#**Presentations:**<br />
-<br />
-#94th International Atlantic Economic Conference. October 2022.*<br />
-<br />
-#2023 ASSA AEA Annual Meetings. New Orleans. Louisiana. January 2023*"
+
 
 
 publication_short: ""
