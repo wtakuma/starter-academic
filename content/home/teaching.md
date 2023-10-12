@@ -14,7 +14,7 @@ design:
 # Courses Taught:
 
 ## Main Instructor (Emory)
-**ECON-215: Stocks, Bonds and Financial Markets** - Spring 2023
+**ECON-215: Stocks, Bonds and Financial Markets** - Fall 2023
 **ECON-212: Intermediate Macroeconomics & Econ 411: Money and Banking** - Summer 2023
 **ECON-212: Intermediate Macroeconomics & Econ 411: Money and Banking** - Spring 2023
 **ECON-212: Intermediate Macroeconomics** - Spring 2023
