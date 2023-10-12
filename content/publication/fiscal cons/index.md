@@ -40,7 +40,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://github.com/wtakuma/starter-academic/blob/master/content/publication/fiscal%20cons/Working_Paper.pdf
+url_pdf: https://github.com/wtakuma/starter-academic/blob/master/content/publication/fiscal%20cons/Fiscal%20Policy%20and%20Asset%20Prices%20in%20a%20Dynamic.pdf
 url_code:
 url_dataset:
 url_poster:
