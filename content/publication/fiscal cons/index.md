@@ -16,11 +16,11 @@ publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 publication: "<br />
-**Presentations:**<br />
+#**Presentations:**<br />
 <br />
-*94th International Atlantic Economic Conference. October 2022.*<br />
+#94th International Atlantic Economic Conference. October 2022.*<br />
 <br />
-*2023 ASSA AEA Annual Meetings. New Orleans. Louisiana. January 2023*"
+#2023 ASSA AEA Annual Meetings. New Orleans. Louisiana. January 2023*"
 
 
 publication_short: ""
