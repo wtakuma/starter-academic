@@ -33,7 +33,7 @@ education:
   courses:
   - course: PhD in Economics
     institution: Emory University
-    year: 2024 (Expected)
+    year: 2024 
   - course: M.A in Economics
     institution: Emory University
     year: 2021 
@@ -59,9 +59,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: user-graduate
-  icon_pack: fas
-  link: https://economics.emory.edu/people/grad-students/takumah-wisdom.html
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/wtakumah
@@ -70,7 +67,7 @@ social:
   link: https://github.com/wtakumah
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/takumah-wisdom-63719a129?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2F%2Bvq0rKDT9qKYb9oEt0k7w%3D%3D
+  link: http://www.linkedin.com/in/wisdom-takumah-ph-d-63719a129
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0003-1227-5127
@@ -94,14 +91,13 @@ social:
 #   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "wtakuma@emory.edu"
+email: "wtakumah@ncat.edu"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
 
-I am a PhD Candidate in Economics at Emory University. Prior to joining
-Emory University, I earned double master degree in Data Science and Economics at South Dakota State University. I have worked as a Research Assistant at United Nations University- World Institute for Development and Economic Research (UNU-WIDER) at University of Ghana. My research interests includes Empirical macroeconomics, Fiscal and Monetary Policy, Time Series Analysis and Machine Learning applications to Macroeconomics.
+I am an Assistant Professor in Economics at North Carolina A&T State University. I earned my PhD degree in Economics from  Emory University. Prior to joining Emory University, I earned double master degree in Data Science and Economics at South Dakota State University. I have worked as a Research Assistant at United Nations University- World Institute for Development and Economic Research (UNU-WIDER) at University of Ghana. My research interests includes Empirical macroeconomics, Fiscal and Monetary Policy, Time Series Forecasting and Machine Learning applications to Macroeconomics.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/mycv.pdf" "newtab" >}}resumé{{< /staticref >}}.
