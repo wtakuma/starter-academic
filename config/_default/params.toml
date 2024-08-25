@@ -88,7 +88,7 @@ show_related = {book = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "wtakuma@emory.edu"
+email = "wtakumah@ncat.edu"
 phone = "+16056912060"
 
 # Address
