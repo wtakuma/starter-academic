@@ -6,7 +6,7 @@ title: Wisdom Takumah
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Candidate in Economics
+role: Assistant Professor of Economics
 
 # Organizations/Affiliations to show in About widget
 organizations:
