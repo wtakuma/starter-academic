@@ -64,7 +64,7 @@ social:
   link: https://twitter.com/wtakumah
 - icon: github
   icon_pack: fab
-  link: https://github.com/wtakumah
+  link: https://github.com/wtakuma
 - icon: linkedin
   icon_pack: fab
   link: http://www.linkedin.com/in/wisdom-takumah-ph-d-63719a129
