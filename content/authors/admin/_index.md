@@ -70,7 +70,7 @@ social:
   link: http://www.linkedin.com/in/wisdom-takumah-ph-d-63719a129
 - icon: orcid
   icon_pack: ai
-  link: https://orcid.org/0000-0003-1227-5127
+  link: https://orcid.org/0009-0001-3115-9132
 - icon: google-scholar
   icon_pack: ai
   link: //scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F6Qe1DAsgt6w0Vczaf7wlHA7Gzhq3W3OWZeWL6qSCepO2XXyZkKgXgLeTsRt1AnXGzdslqsNAN5F7lO5EpTAXMdK5LbAQ&user=2H8Ue30AAAAJ
