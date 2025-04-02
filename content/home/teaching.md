@@ -12,6 +12,10 @@ design:
 ---
 
 # Courses Taught:
+## Instructor (NC A&T State University)
+**ECON-200: Principles of Microeconomics** - Fall 2024, Spring 2025, Fall 2025
+**ECON-212: Intermediate Macroeconomics** - Fall 2025
+
 
 ## Main Instructor (Emory)
 **ECON-215: Stocks, Bonds and Financial Markets** - Fall 2023
